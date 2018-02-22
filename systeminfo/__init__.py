@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Displays system information for machine"""
 
-from Amy McCormack import metadata
+from systeminfo import metadata
 
 
 __version__ = metadata.version
